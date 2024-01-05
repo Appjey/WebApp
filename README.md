@@ -1,4 +1,4 @@
-# Simple String Concatenation Service
+# Simple String Concatenation Service DEV
 
 Сервис с поддержкой веб-формы и RESTful API. Сервис принимает три строки и возвращает их конкатенацию, разделяя их пробелами.
 
